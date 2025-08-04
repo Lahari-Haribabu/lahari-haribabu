@@ -1,20 +1,25 @@
-# Hello Everyone 👋
+<!-- Animated header banner -->
+<p align="center">
+  <img src="./assets/hello_banner.gif" alt="Hello Everyone Banner" />
+</p>
 
-## Im Lahari, an Aspiring DevOps Engineer
+# Hello Everyone 👋
+## I'm Lahari, an Aspiring DevOps Engineer
 
 🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Automation  
-📍 Based in India | 🎯 Open to Internship & Entry-Level DevOps Roles  
+📍 Based in India | 🎯 Open to Internship & Entry‑Level DevOps Roles  
 
+---
 
-I'm a **Aspiring DevOps engineer** specializing in **Development, DevOps, and Cloud** from 🇮🇳 India. I'm passionate about building production-ready applications and scalable cloud infrastructure.
+I'm a **Aspiring DevOps engineer** specializing in **Development, DevOps, and Cloud** from 🇮🇳 India. I'm passionate about building production‑ready applications and scalable cloud infrastructure.
 
 ---
 
 ### 🔥 About Me
 
 - 🔭 Currently working on **cloud-native solutions, DevOps, Cloud Technologies**
-- 🌱 Always learning about **emerging technologies** and **best practices**
-- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives,C loud technologies**
+- 🌱 Always learning about **emerging technologies** and best practices
+- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives, Cloud technologies**
 - 💬 Ask me about **Python, Java, Cloud Architecture, DevOps Engineering, Cloud Engineering**
 - ⚡ Fun fact: **I love sharing knowledge**
 
@@ -22,12 +27,12 @@ I'm a **Aspiring DevOps engineer** specializing in **Development, DevOps, and Cl
 
 ### 💻 Tech Stack
 
-#### Languages & Frameworks
+#### 👩‍💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
 
-#### Cloud & DevOps
+#### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
@@ -42,20 +47,21 @@ I'm a **Aspiring DevOps engineer** specializing in **Development, DevOps, and Cl
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=flat)
 
-#### Monitoring/Logging
+#### 🔍 Monitoring / Logging
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat)
 ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF9900?logo=amazonaws&logoColor=white&style=flat)
-
----
 
 #### 🗂️ Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 ---
-### 📫 Connect with me
+
+
+---
+
+### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/a-lahari/)
 [![Mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:anugalahari27@example.com)
-
