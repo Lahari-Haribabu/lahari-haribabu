@@ -1,6 +1,6 @@
 <!-- Animated header banner -->
 <p align="center">
-  <img src="./assets/hello_banner.gif" alt="Hello Everyone Banner" />
+  <img src="./assets/hello_banner.gif" alt="Hello Everyone" />
 </p>
 
 # Hello Everyone 👋
@@ -55,9 +55,6 @@ I'm a **Aspiring DevOps engineer** specializing in **Development, DevOps, and Cl
 #### 🗂️ Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-
----
-
 
 ---
 
