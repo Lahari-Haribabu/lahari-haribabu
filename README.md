@@ -3,7 +3,7 @@
   <img src="./assets/hello_banner.gif" alt="Hello Everyone" />
 </p>
 
-# Hello Everyone 👋
+                                                                    # Hello Everyone 👋
 ## I'm Lahari, an Aspiring DevOps Engineer
 
 🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Automation  
