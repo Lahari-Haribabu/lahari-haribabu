@@ -44,6 +44,7 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=flat&logo=vercel&logoColor=white)
 
 #### 🔍 Monitoring / Logging
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat)
