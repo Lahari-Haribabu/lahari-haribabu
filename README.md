@@ -3,8 +3,8 @@
   <img src="./assets/hello_banner.gif" alt="Hello Everyone" />
 </p>
 
-                                                      # Hello Everyone 👋
-                                            ## I'm Lahari, an Aspiring DevOps Engineer
+                                                  # Hello Everyone 👋
+                                        ## I'm Lahari, an Aspiring DevOps Engineer
 
 ---
 
