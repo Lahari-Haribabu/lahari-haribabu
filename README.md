@@ -6,6 +6,7 @@
                                                       # Hello Everyone 👋
                                             ## I'm Lahari, an Aspiring DevOps Engineer
 
+
 🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Automation  
 📍 Based in India | 🎯 Open to Internship & Entry‑Level DevOps Roles  
 
