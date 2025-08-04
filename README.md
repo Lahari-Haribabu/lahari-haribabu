@@ -19,7 +19,7 @@
 - 🌱 Always learning about **emerging technologies** and best practices
 - 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
 - 💬 Ask me about **Python, Java, Cloud Architecture, DevOps Engineering**
-- ⚡ Fun fact: **I love sharing knowledge**
+- ⚡ Fun fact: **I love Learning & sharing knowledge**
 
 ---
 
