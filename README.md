@@ -4,19 +4,15 @@
 </p>
 
                                                       # Hello Everyone 👋
-                                           ## I'm Lahari, an Aspiring DevOps Engineer
+                                            ## I'm Lahari, an Aspiring DevOps Engineer
 
 🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Automation  
 📍 Based in India | 🎯 Open to Internship & Entry‑Level DevOps Roles  
 
 ---
 
-I'm a **Aspiring DevOps engineer** specializing in **Development, DevOps, and Cloud** from 🇮🇳 India. I'm passionate about building production‑ready applications and scalable cloud infrastructure.
-
----
-
 ### 🔥 About Me
-
+- ☁️ I'm passionate about building production‑ready applications and scalable cloud infrastructure.
 - 🔭 Currently working on **cloud-native solutions, DevOps, Cloud Technologies**
 - 🌱 Always learning about **emerging technologies** and best practices
 - 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives, Cloud technologies**
