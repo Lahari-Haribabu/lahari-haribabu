@@ -3,8 +3,8 @@
   <img src="./assets/hello_banner.gif" alt="Hello Everyone" />
 </p>
 
-                                                  # Hello Everyone 👋
-                                        ## I'm Lahari, an Aspiring DevOps Engineer
+<h1 align="center">Hello Everyone 👋</h1>
+<h2 align="center">I'm Lahari, an Aspiring DevOps Engineer</h2>
 
 ---
 
@@ -15,10 +15,10 @@
 
 ### 🔥 About Me
 - ☁️ I'm passionate about building production‑ready applications and scalable cloud infrastructure.
-- 🔭 Currently working on **cloud-native solutions, DevOps, Cloud Technologies**
+- 🔭 Currently working on **cloud-native solutions, DevOps, and Cloud Technologies**
 - 🌱 Always learning about **emerging technologies** and best practices
-- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives, Cloud technologies**
-- 💬 Ask me about **Python, Java, Cloud Architecture, DevOps Engineering, Cloud Engineering**
+- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
+- 💬 Ask me about **Python, Java, Cloud Architecture, DevOps Engineering**
 - ⚡ Fun fact: **I love sharing knowledge**
 
 ---
@@ -64,4 +64,4 @@
 
 ---
 
-                                                  💡 "Building the future, one deployment at a time"
+<p align="center"><strong>💡 "Building the future, one deployment at a time" 💡</strong></p>
