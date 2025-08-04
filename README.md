@@ -1,24 +1,61 @@
-# 👋 Hi, I'm Lahari!
+# Hello Everyone 👋
+
+## Im Lahari, an Aspiring DevOps Engineer
 
 🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Automation  
 📍 Based in India | 🎯 Open to Internship & Entry-Level DevOps Roles  
 
+
+I'm a **Aspiring DevOps engineer** specializing in **Development, DevOps, and Cloud** from 🇮🇳 India. I'm passionate about building production-ready applications and scalable cloud infrastructure.
+
 ---
 
-## 🔧 Tech Stack & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🔥 About Me
+
+- 🔭 Currently working on **cloud-native solutions, DevOps, Cloud Technologies**
+- 🌱 Always learning about **emerging technologies** and **best practices**
+- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives,C loud technologies**
+- 💬 Ask me about **Python, Java, Cloud Architecture, DevOps Engineering, Cloud Engineering**
+- ⚡ Fun fact: **I love sharing knowledge**
+
+---
+
+### 💻 Tech Stack
+
+#### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
+![YAML](https://img.shields.io/badge/-YAML-CB171E?logo=yaml&logoColor=white&style=flat)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
+![Apache CloudStack](https://img.shields.io/badge/-Apache%20CloudStack-2E3A59?logo=apache&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Shell Scripting](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=flat)
 
+#### Monitoring/Logging
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF9900?logo=amazonaws&logoColor=white&style=flat)
 
 ---
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-lahari/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anugalahari@gmail.com)
+#### 🗂️ Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+
+---
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/a-lahari/)
+[![Mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:anugalahari27@example.com)
+
